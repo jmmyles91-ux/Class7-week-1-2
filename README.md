@@ -4,9 +4,9 @@ This readme goes through what was done in week 1 to 2
 
 ## Table of contents
 
-[Creating a security group](#Creating a security group)
-[creating an EC2](#creating an EC2)
-[using the instance](#using the instance)
+- [Creating a security group](#Creating a security group)
+- [creating an EC2](#creating an EC2)
+- [using the instance](#using the instance)
 
 
 ## Creating a security group
