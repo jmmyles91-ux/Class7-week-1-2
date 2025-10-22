@@ -5,9 +5,10 @@ This readme goes through what was done in week 1 to 2
 ## Table of contents
 
 - Creating a security group
-- creating an EC2
-- using the instance
-
+- Creating an EC2
+- Using the instance
+- Using SSH
+- Using a launch template
 
 ### Template used == https://github.com/jmmyles91-ux/BALERICACLASS7/blob/main/ec2scrpit
 
@@ -46,3 +47,6 @@ N.B - To ensure that you have are using the right security group, use the securi
 - b. ensure that http:// is typed before entering the link.
 
 Remember to delete your instance or else you will be billed!!!!!!!!
+
+
+
